@@ -1,6 +1,6 @@
-# 🖋️ Inkwell: Modern MERN Blog-Sharing Platform
+# 🖋️ Modern Blog-Sharing Platform
 
-Inkwell is a dynamic blog-sharing ecosystem featuring secure authentication, a high-performance MERN backend, and a premium React-driven UI. Built as a full-stack developer assignment.
+A dynamic blog-sharing ecosystem featuring secure authentication, a high-performance MERN backend, and a premium React-driven UI. Built as a full-stack developer assignment.
 
 ---
 
