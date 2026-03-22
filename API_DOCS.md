@@ -1,4 +1,4 @@
-# 🌐 Inkwell API Documentation
+# 🌐 API Documentation
 
 This document provides an overview of the RESTful API endpoints used in the Inkwell MERN Blog platform.
 
