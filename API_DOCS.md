@@ -1,6 +1,6 @@
 # 🌐 API Documentation
 
-This document provides an overview of the RESTful API endpoints used in the Inkwell MERN Blog platform.
+This document provides an overview of the RESTful API endpoints used in the Modern Blog platform.
 
 **Base URL**: `http://localhost:5000/api`
 
