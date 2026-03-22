@@ -1,0 +1,25 @@
+{
+  "name": "inkwell-mern-blog",
+  "version": "1.0.0",
+  "description": "A high-performance, feature-rich blog-sharing platform built with the MERN stack.",
+  "scripts": {
+    "install-all": "npm install && cd backend && npm install && cd ../frontend && npm install --legacy-peer-deps",
+    "backend": "cd backend && npm run dev",
+    "frontend": "cd frontend && npm run dev",
+    "dev": "npx concurrently \"npm run backend\" \"npm run frontend\""
+  },
+  "keywords": [
+    "mern",
+    "mongodb",
+    "express",
+    "react",
+    "node",
+    "blog",
+    "full-stack"
+  ],
+  "author": "Shubham",
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
